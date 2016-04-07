@@ -1,6 +1,6 @@
 {
     "repos": "https://github.com/aui/artDialog.git",
-    "version": "6.0.5",
+    "version": "6.0.6",
     "description": "经典的网页对话框组件，内外皆用心雕琢",
     "name": "artdialog",
     "main": "artdialog.js",
