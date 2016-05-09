@@ -11,6 +11,8 @@
 var $ = require("jquery");
 var Popup = require("popup");
 
+require('./css/ui-dialog.css');
+
 var defaults = {
   /* -----已注释的配置继承自 popup.js，仍可以再这里重新定义它----- */
 
